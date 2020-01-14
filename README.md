@@ -1,0 +1,1 @@
+This is Midori's first git project
